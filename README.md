@@ -23,8 +23,8 @@ Change the var parameters section to be exactly as shown below:
 
 	var parameters = {
 			'debug': true,
-			'username': 'ENTER SIP USERNAME',       // Created in Restcomm Cloud >> Clients >> Add New
-			'password': 'ENTER SIP PASSWORD',                 // Created in Restcomm Cloud >> Clients >> Add New
+			'username': 'ENTER SIP USERNAME',       // Created in Dreambox Cloud >> Clients >> Add New
+			'password': 'ENTER SIP PASSWORD',                 // Created in Dreambox Cloud >> Clients >> Add New
 			'registrar': 'wss://cpaas.dreambox.ae/webrtc'.   // Restcomm Cloud Registrar, its the same for all Restcomm Cloud Clients
       
    
